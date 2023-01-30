@@ -11,7 +11,9 @@ It has a login created entirely with Auth0.
 In order to run the repository you must follow these steps:
 
 1.npm install
+
 2.npm run dev
+
 3. Create a file called .env where it contains the following environment variables:
 
 VITE_AUTH0_DOMAIN=%auth0 domain%
